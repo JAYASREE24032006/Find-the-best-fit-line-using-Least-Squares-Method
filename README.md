@@ -1,4 +1,4 @@
-# IMPLEMENTATION OF UNIVARIANT LINEAR REGRESSION
+# EX-1 : IMPLEMENTATION OF UNIVARIANT LINEAR REGRESSION
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
