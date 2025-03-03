@@ -39,12 +39,15 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## PROGRAM:
 
 
-```
 Developed by:R.JAYASREE
 
 
 RegisterNumber:212223040074
-```
+
+
+
+
+
 
 
 
