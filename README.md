@@ -6,9 +6,11 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 
 
+
 ## EQUIPMENTS REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
+
 
 
 
@@ -31,6 +33,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## PROGRAM:
 
 Developed by:R.JAYASREE
+
+
 RegisterNumber:212223040074
 
 ```
@@ -70,6 +74,9 @@ plt.show()
 ## OUTPUT:
 
    ![Screenshot 2025-02-24 162755](https://github.com/user-attachments/assets/0bcd19b7-e55d-4046-a63c-a2ae420ee592)
+
+
+
 
 
 
